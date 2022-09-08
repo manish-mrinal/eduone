@@ -1,0 +1,160 @@
+body
+{
+  margin : 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  line-height: 2;
+  background-color: #E4F9F5;
+  color: #40514E;
+}
+
+h1
+{
+/*text-align: center;*/
+margin: 50px auto 0 auto;
+/*margin-left: 0;
+margin-right: 0;
+margin-top: 50px;*/
+font-size: 5.625rem;
+font-family: 'Sacramento', cursive;
+color: #66BFBF;
+
+}
+
+h2 {
+
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3{
+
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+.Top-Container
+{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 50px;
+  /*height: 200px;
+  width: 200px;
+  position: relative;
+  left : 200px;*/
+  /*margin : 0;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;*/
+}
+
+.Middle-Container {
+  /*height: 200px;
+  width: 200px;
+background-color: red;*/
+/*position: relative;*/
+padding-top: 100px;
+margin-bottom: 50px;
+display: inline-block;
+/*bottom: 200px;*/
+}
+
+.Bottom-Container {
+  /*height: 200px;
+  width: 200px;
+  background-color: blue;
+  /*position: relative;
+  bottom: 400px;
+  left:400px;*/
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 50px;
+  }
+
+  .pro{
+    font-weight: bold;
+  }
+
+  .top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+  }
+
+  .bottom-cloud {
+position: absolute;
+left: 300px;
+bottom: 300px;
+  }
+
+.footer-link{
+color: #11999E;
+}
+
+.skill-row{
+  width: 50%;
+  margin: auto;
+}
+
+.University-Picture1 {
+  /*height: 860px;
+  width:  640px;*/
+
+  height: 640px;
+  width: 860px;
+/*  float: left;*/
+margin-right: 30px;
+margin-bottom: 30px;
+display: inline-block;
+/*position: absolute;position:relative;
+  top:  500px;
+  left: 300px;
+text-align: left;
+position: absolute;
+right: 700px;*/
+
+}
+
+.text2{
+/*  margin-left: 790px;*/
+
+}
+
+
+.University-Picture2 {
+
+  height: 640px;
+  width: 860px;
+  display: inline-block;
+  /* float: right;
+position: relative;
+  top:  500px;
+  left: 340px;*/
+
+
+}
+
+.text3{
+/*  margin-right: 880px;*/
+
+}
+
+.University-Picture3 {
+
+  height: 640px;
+  width: 860px;
+  display: inline-block;
+
+  /*position:relative;
+    top:  250px;
+    right: 500px;*/
+
+}
+
+.text4{
+  /*margin-left: 700px;
+margin-bottom: 100px;*/
+}
